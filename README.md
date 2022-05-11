@@ -6,3 +6,5 @@ This exercise shows how to model 5 characters that belong to the Harry Potter se
 ![UML1](/scshts/UML1.png)
 ## Práctica: Herencia y Polimorfismo
 This exercise shows how to get 6 versions of Mona The Octocat while using Polymorphism and Inheritance concepts. Screenshots of the program running and a UML diagram are shown below. 
+![Screenshot2](/scshts/Screenshot_2.png)
+![UML2](/scshts/UML2.png)
